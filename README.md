@@ -1,2 +1,4 @@
 # abhikhatri67.github.io
-Github Pages
+Terminal Portfolio with jQuery.
+
+**[Visit the website here.](https://abhikhatri67.github.io)**
