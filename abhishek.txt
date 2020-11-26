@@ -1,12 +1,14 @@
 <span id="a">abhishek@khatri</span>:<span id="b">~</span><span id="c">$</span> cd Abhishek/<!-- kjsdfhkjdhsfkjdshfkj -->About_Abhishek
-<span id="a">abhishek@khatri</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->abhishek.txt<br/><br/>
-<!-- sjkfhskjf -->
+<span id="a">abhishek@khatri</span>:<span id="b">~</span><span id="c">$</span> cat <!-- Conosle Text -->abhishek.txt<br/><br/>
+<!-- About -->
 
 Hey There! I am Abhishek Khatri.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working as Software Development Engineer at SmartJoules Pvt. Ltd.</p>
-</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
 At Smart Joules, I save the planet by reducing our energy footprint. DeJoule is the product whose software I have developed and designed from scratch. I have helped in starting and mentoring the JouleLabs program. I have hired, coached and built a team. We designed, developed and deployed an Industrial IoT control system, decentralized communication, and dashboards to get actionable insights accompanied by dashboards for fleet management.
-<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/abhishek-khatri-0b073012b/">LinkedIn</a> <br> <a href="https://github.com/abhikhatri67">GitHub</a> <br>
+
+<p> Side Projects: <br> <a href="https://abhishek-todo-js.netlify.app/">Todo</a> <br> <a href="https://abhishekticktactoe.netlify.app/">Tic Tac Toe</a> <br>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: abhikhatri67@gmail.com">abhikhatri67@gmail.com</a>.
 
