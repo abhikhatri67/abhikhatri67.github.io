@@ -2,13 +2,13 @@
 <span id="a">abhishek@khatri</span>:<span id="b">~</span><span id="c">$</span> cat <!-- Conosle Text -->abhishek.txt<br/><br/>
 <!-- About -->
 
-Hey There! I am Abhishek Khatri.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working as Software Development Engineer at SmartJoules Pvt. Ltd.</p>
+Hey There! I am Abhishek Khatri.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working as Team Lead Frontend / Software Development Engineer at SmartJoules Pvt. Ltd.</p>
 
-At Smart Joules, I save the planet by reducing our energy footprint. DeJoule is the product whose software I have developed and designed from scratch. I have helped in starting and mentoring the JouleLabs program. I have hired, coached and built a team. We designed, developed and deployed an Industrial IoT control system, decentralized communication, and dashboards to get actionable insights accompanied by dashboards for fleet management.
+At Smart Joules, I save the planet by reducing our energy footprint. DeJoule is the product whose software I have developed and designed from scratch. I have hired, coached and built a frontend and UX team. We designed, developed and deployed an Industrial IoT Building Management System to get actionable insights.
 
-<p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/abhishek-khatri-0b073012b/">LinkedIn</a> <br> <a href="https://github.com/abhikhatri67">GitHub</a> <br>
+<p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/abhishek-khatri-0b073012b/">LinkedIn</a> <br> <a href="https://github.com/abhikhatri67">GitHub</a> <br><a href="https://abhikhatri67.medium.com/">Medium</a> <br>
 
-<p> Side Projects: <br> <a href="https://abhishek-todo-js.netlify.app/">Todo</a> <br> <a href="https://abhishekticktactoe.netlify.app/">Tic Tac Toe</a> <br>
+<p> Side Projects: <br> <a href="https://countries-app-challenge.netlify.app/">Countries App</a> <br> <a href="https://youtube-clone-js.netlify.app/">Youtube Clone</a> <br> <a href="https://clock-dark-js.netlify.app/">Clock (Dark Theme)</a>  <br> <a href="https://abhishekticktactoe.netlify.app/">Tic Tac Toe</a> <br>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto: abhikhatri67@gmail.com">abhikhatri67@gmail.com</a>.
 
