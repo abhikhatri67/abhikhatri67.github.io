@@ -2,9 +2,15 @@
 <span id="a">abhishek@khatri</span>:<span id="b">~</span><span id="c">$</span> cat <!-- Conosle Text -->abhishek.txt<br/><br/>
 <!-- About -->
 
-Hey There! I am Abhishek Khatri.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working as Team Lead Frontend / Software Development Engineer at SmartJoules Pvt. Ltd.</p>
+Hey There! I am Abhishek Khatri.
 
-At Smart Joules, I save the planet by reducing our energy footprint. DeJoule is the product whose software I have developed and designed from scratch. I have hired, coached and built a frontend and UX team. We designed, developed and deployed an Industrial IoT Building Management System to get actionable insights.
+I'm a seasoned Principal Software Engineer specializing in FrontEnd development with over 6.5 years of experience. I thrive on spearheading impactful projects. At GoGroup, I led the development of a green energy portal, showcasing my proficiency in ReactJS and collaboration skills.
+
+My passion for innovation shines in projects like "heyport," a Port call coordination tool, where I streamlined communication in the maritime industry using ReactJS and AWS services. As a Front-End Team Lead at Smart Joules, I initiated JouleTrack (BMS), a progressive web app with Angular.
+
+Proficient in ReactJS, Ruby on Rails, Angular, NodeJS, Serverless, AWS, and GraphQL, I hold a bachelor's in Technology (Computer Science) from DIT University.
+
+Explore my portfolio for a glimpse into my impactful projects. Let's connect and explore how my skills can contribute to your team.
 
 <p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/abhishek-khatri-0b073012b/">LinkedIn</a> <br> <a href="https://github.com/abhikhatri67">GitHub</a> <br><a href="https://abhikhatri67.medium.com/">Medium</a> <br>
 
